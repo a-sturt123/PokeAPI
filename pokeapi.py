@@ -1,5 +1,5 @@
 # Reflection Questions:
-#
+
 # 1. Which API did I choose and why?
 # I chose the PokéAPI (https://pokeapi.co) because it is publicly accessible, does not require an API key,
 # and provides structured JSON data that is easy to work with using Python and Pandas.
